@@ -16,11 +16,7 @@ body{
     color: var(--fg);
 }
 
-.container{
-    width: min(92%, 60rem);
-    margin: auto;
-    padding: 2rem 1rem;
-}
+
 
 button{
     background: var(--brand);
